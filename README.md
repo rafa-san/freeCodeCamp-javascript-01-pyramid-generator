@@ -1,19 +1,22 @@
 ![Badge](https://img.shields.io/badge/freeCodeCamp-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# JavaScript Algorithm and Data Structures Certification #01 | Pyramid Generator
+# JavaScript Algorithms and Data Structures Certification #01 | Pyramid Generator
 
 ## 1️⃣ Objetivo
 Desenvolver um gerador de pirâmide para praticar conceitos básicos de programação em JavaScript.
 
 ## 2️⃣ Descrição
-Este é o primeiro curso da trilha *JavaScript Algorithm and Data Structures Certification*, marcando a introdução a conceitos fundamentais de programação em JavaScript.
+Este é o primeiro curso da trilha **JavaScript Algorithm and Data Structures Certification**, marcando a introdução a conceitos fundamentais de programação em JavaScript.
 
-Ao longo do curso, iremos aprender alguns conceitos de:
-- Arrays, strings e funções;
-- Estruturas como loops e instruções if/else;
+Ao longo do curso, iremos aprender conceitos básicos de:
+- Strings
+- Arrays
+- Funções
+- Estruturas com loops
+- Instruções if/else
 
 ## 3️⃣ Principais Modificações
-Criei uma página HTML para registrar informações importantes do curso e também uma página de estilo para personalizá-la.
+Criei uma página HTML para registrar informações importantes do tutorial e um arquivo CSS para personalizá-la.
 
 ## 4️⃣ Tecnologias Utilizadas
 
@@ -28,7 +31,7 @@ Criei uma página HTML para registrar informações importantes do curso e tamb�
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 ## 6️⃣ Licença
