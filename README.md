@@ -6,7 +6,7 @@
 Desenvolver um gerador de pirâmide para praticar conceitos básicos de programação em JavaScript.
 
 ## 2️⃣ Descrição
-Este é o primeiro curso da trilha **JavaScript Algorithm and Data Structures Certification**, marcando a introdução a conceitos fundamentais de programação em JavaScript.
+Este é o primeiro curso da trilha **JavaScript Algorithms and Data Structures Certification**, marcando a introdução a conceitos fundamentais de programação em JavaScript.
 
 Ao longo do curso, iremos aprender conceitos básicos de:
 - Strings
